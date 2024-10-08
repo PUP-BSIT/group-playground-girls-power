@@ -1,3 +1,1 @@
-print ("jasmine De leon") 
-
-print ("Welcome to the team - Aleck")
+print ("Name:Jasmine Robelle De Leon")
