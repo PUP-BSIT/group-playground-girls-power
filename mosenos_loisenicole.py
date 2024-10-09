@@ -4,6 +4,4 @@ print("Gender: Female")
 print("Email: loisenicolemosenos@gmail.com")
 print ("Welcome to the team! - Loise")
 
-
-
-i edit this files -loise
+i edit this file -jasmine
