@@ -6,4 +6,4 @@ print ("Welcome to the team! - Loise")
 
 i edit this file -jasmine
 
-the file has been edit -jasmine
+print ("Welcome to the team! - Aleck")
