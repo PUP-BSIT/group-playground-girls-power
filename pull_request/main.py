@@ -17,7 +17,7 @@ def main_menu():
             alejandro.aleck_info()
 
         elif choice == '2':
-            print("---  ---")
+            print("\n---  ---")
             deleon.jasmine_info()
             
         elif choice == '3':
@@ -28,8 +28,9 @@ def main_menu():
             print("-----------------------------------")
 
         elif choice == '5':
-            print("-----------------------------------")   
-            mosenos.loise_info() 
+
+            print("---------------------------------------")     
+
             
         elif choice == '6':
             print("\nExiting program.\n")
