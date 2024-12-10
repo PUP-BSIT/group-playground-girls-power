@@ -15,7 +15,8 @@ def aleck_info():
             print (" Hi, I'm Aleck")               
 
         elif choice == '2':
-            print (" ----") 
+            print ("---Goals--") 
+            print ("Pass this semester")
 
         elif choice == '3':
            print (" ----") 
