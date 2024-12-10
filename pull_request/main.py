@@ -1,4 +1,4 @@
-from package import alejandro
+from package import alejandro, mosenos
 
 def main_menu():
     while True:
@@ -30,7 +30,8 @@ def main_menu():
 
         elif choice == '5':
 
-            print("---------------------------------------")     
+            print("---------------------------------------")   
+            mosenos.loise_info() 
 
             
         elif choice == '6':
