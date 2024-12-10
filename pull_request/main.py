@@ -1,4 +1,4 @@
-from package import alejandro
+from package import alejandro, deleon
 
 def main_menu():
     while True:
@@ -19,6 +19,7 @@ def main_menu():
 
         elif choice == '2':
             print("\n---  ---")
+            deleon.jasmine_info()
             
         elif choice == '3':
             print("-------------------------------")
