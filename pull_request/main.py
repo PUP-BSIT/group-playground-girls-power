@@ -1,4 +1,4 @@
-from package import alejandro
+from package import alejandro, deleon, mosenos
 
 def main_menu():
     while True:
