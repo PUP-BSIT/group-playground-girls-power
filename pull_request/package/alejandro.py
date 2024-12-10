@@ -1,4 +1,4 @@
-def main_menu():
+def aleck_info():
     while True:
         print("\n---Main Menu ---")
         print("1. Basic Info")
@@ -37,4 +37,4 @@ def main_menu():
 
 # Run the main menu
 if __name__ == "__main__":
-    main_menu()
+    aleck_info()
