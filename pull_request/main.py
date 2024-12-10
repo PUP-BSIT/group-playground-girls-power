@@ -1,7 +1,10 @@
+import os
+
 from package import alejandro, deleon, mosenos, esparagoza
 
 def main_menu():
     while True:
+        os.system('cls')
         print("---Main Menu---")
         print("1. Aleck Mcklaiyre Alejandro")
         print("2. Jasmine Robelle De leon")
@@ -17,7 +20,7 @@ def main_menu():
             alejandro.aleck_info()
 
         elif choice == '2':
-            print("\n---  ---")
+            print("-----------------------------------")
             deleon.jasmine_info()
             
         elif choice == '3':
@@ -29,15 +32,14 @@ def main_menu():
 
         elif choice == '5':
 
-            print("---------------------------------------")     
-
+            print("-----------------------------------")     
             
         elif choice == '6':
-            print("\nExiting program.\n")
+            print("Exiting program...")
             break
 
         else:
-            print("\nInvalid option. Please try again.\n")
+            print("Invalid option. Please try again.")
 
 # Run the main menu
 if __name__ == "__main__":
